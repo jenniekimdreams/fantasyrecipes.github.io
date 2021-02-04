@@ -1,2 +1,0 @@
-# fantasyrecipes.github.io
-Recipes
